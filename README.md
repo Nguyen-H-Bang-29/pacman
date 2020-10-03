@@ -33,7 +33,7 @@
 - Khi push vào PriorityQueue thì push object gồm(state, path, cost) và tham số prority.
 
 ## Question 4 
-- Giống Question3 nhưng thay tham số priority = priority + heuristic.
+- Giống Question3 nhưng thay tham số priority = cost + heuristic.
 
 ## Question 5
 - Function getStartState(self) 
